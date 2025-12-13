@@ -1,8 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/verbi/verbi-modali-modalverben-todo
+hidden: true
 ---
 
 # Verbi modali (Modalverben) TODO

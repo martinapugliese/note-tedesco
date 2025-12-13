@@ -1,10 +1,3 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/pronominalenadverbien-todo/wo-komposita
----
-
 # Wo-Komposita
 
 Sono avverbi e hanno funzione di pronome (interrogativo o relativo). Si formano con wo + preposizione: _woran, worüber, worauf, wofür, wogegen, ..._

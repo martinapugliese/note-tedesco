@@ -1,19 +1,6 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/verbi/verbi-forti-starke-verben
----
-
 # Verbi forti (starke Verben)
 
-La connotazione debole/forte/misto descrive come il verbo cambia nella coniugazione.  TODO questo va messo altrove
-
-TODO linkare a specchietto dei tempi e modi verbali
-
-## Verbi forti (starke Verben)
-
-Sono quelli che:
+I verbi cosiddetti "forti" sono quelli che:
 
 * in coniugazione cambiano la vocale della radice nel passaggio da Infinitiv e Präsens al Präteritum e poi al Partizip II - questo processo si chiama **Ablaut**<sup>1</sup>, si deve al proto-indoeuropeo<sup>2</sup> e segue 7 classi<sup>3</sup>
 * usano il suffisso _**-en**_ nel Partizip II

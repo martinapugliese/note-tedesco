@@ -1,9 +1,7 @@
 ---
 description: finita
+hidden: true
 icon: square-user
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/pronomi/pronomi-personali
 ---
 
 # Pronomi personali

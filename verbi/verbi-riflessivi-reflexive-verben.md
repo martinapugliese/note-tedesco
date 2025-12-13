@@ -1,8 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/verbi/verbi-riflessivi-reflexive-verben
+hidden: true
 ---
 
 # Verbi riflessivi (Reflexive Verben)

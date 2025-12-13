@@ -1,9 +1,6 @@
 ---
+hidden: true
 icon: square-user
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/fondamenta/pronomi-personali-todo
 ---
 
 # Pronomi personali TODO

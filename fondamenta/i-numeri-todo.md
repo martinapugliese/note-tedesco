@@ -1,7 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/fondamenta/i-numeri-todo
+hidden: true
 ---
 
 # I numeri TODO

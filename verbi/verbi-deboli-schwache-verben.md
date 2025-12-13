@@ -1,14 +1,6 @@
----
-description: TODO fare i verbi misti
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/verbi/verbi-deboli-schwache-verben
----
-
 # Verbi deboli (schwache Verben)
 
-I verbi deboli sono quelli regolari, che cioè in coniugazione:
+I verbi "deboli" sono quelli regolari, che cioè in coniugazione:
 
 * non cambiano la vocale della radice ("_der Stamm"_) dal
 * finiscono in _**-te**_ alla I e III persona singolare del Präteritum

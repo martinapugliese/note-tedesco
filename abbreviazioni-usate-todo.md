@@ -1,7 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/abbreviazioni-usate-todo
+hidden: true
 ---
 
 # Abbreviazioni usate TODO

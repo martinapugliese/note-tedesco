@@ -1,7 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/preposizioni-e-connettori
+hidden: true
 ---
 
 # Preposizioni e connettori

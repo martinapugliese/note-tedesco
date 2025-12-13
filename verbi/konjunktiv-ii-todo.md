@@ -1,8 +1,6 @@
 ---
 description: continuare
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/verbi/konjunktiv-ii-todo
+hidden: true
 ---
 
 # Konjunktiv II TODO

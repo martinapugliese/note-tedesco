@@ -1,10 +1,6 @@
 ---
 icon: left-right
 coverY: 0
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/pronomi/pronomi-relativi-relativpronomen
 ---
 
 # Pronomi relativi (Relativpronomen)

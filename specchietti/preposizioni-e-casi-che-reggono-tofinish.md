@@ -1,9 +1,6 @@
 ---
 description: fare gli esempi - vd pag 16 che ne ha alcuni
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/specchietti/preposizioni-e-casi-che-reggono-tofinish
+hidden: true
 ---
 
 # Preposizioni e casi che reggono TOFINISH

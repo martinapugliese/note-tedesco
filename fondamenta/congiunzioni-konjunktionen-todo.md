@@ -1,9 +1,6 @@
 ---
+hidden: true
 icon: arrow-right-to-bracket
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/fondamenta/congiunzioni-konjunktionen-todo
 ---
 
 # Congiunzioni (Konjunktionen) TODO

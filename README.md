@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: hand-wave
 layout:
   width: default
@@ -14,9 +15,6 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/
 ---
 
 # Ciao! TODO

@@ -1,9 +1,6 @@
 ---
+hidden: true
 icon: clock-three
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/JUhrNcQYvzrgFm5z2AYp/specchietti/specificare-lorario
 ---
 
 # Specificare l'orario
