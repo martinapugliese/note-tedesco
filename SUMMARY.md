@@ -1,9 +1,12 @@
 # Table of contents
 
-* [Ciao! TODO](README.md)
-* [La forma di cortesia TODO](la-forma-di-cortesia-todo.md)
+* [La forma di cortesia TODO](README.md)
 * [Abbreviazioni usate TODO](abbreviazioni-usate-todo.md)
 * [Referenze TODO](referenze-todo.md)
+
+## Il progetto
+
+* [Ciao!](il-progetto/readme.md)
 
 ## Fondamenta
 
