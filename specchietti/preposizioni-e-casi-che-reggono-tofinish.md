@@ -57,4 +57,4 @@ Ich renne auf die x (corro verso x)
 
 
 
-l'uso si lega all'ausiliare sein per il moto a luogo [uso-degli-ausiliari-todo.md](../fondamenta/uso-degli-ausiliari-todo.md "mention")
+l'uso si lega all'ausiliare sein per il moto a luogo [Broken link](/broken/pages/b3RrrvEtbsBt48SFna4h "mention")

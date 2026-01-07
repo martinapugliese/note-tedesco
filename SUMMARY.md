@@ -14,17 +14,17 @@
 * [Articoli (Artikeln)](fondamenta/articoli-artikeln.md)
 * [Congiunzioni (Konjunktionen) TODO](fondamenta/congiunzioni-konjunktionen-todo.md)
 * [Pronomi personali TODO](fondamenta/pronomi-personali-todo.md)
-* [Uso degli ausiliari TODO](fondamenta/uso-degli-ausiliari-todo.md)
 * [Il "man" TODO](fondamenta/il-man-todo.md)
 * [I numeri TODO](fondamenta/i-numeri-todo.md)
 
 ## Verbi
 
+* [Tempi e modi verbali TODO](verbi/tempi-e-modi-verbali-todo.md)
 * [Verbi modali (Modalverben) TODO](verbi/verbi-modali-modalverben-todo.md)
+* [Verbi ausiliari TODO](verbi/verbi-ausiliari-todo.md)
 * [Verbi forti (starke Verben)](verbi/verbi-forti-starke-verben.md)
 * [Verbi deboli (schwache Verben)](verbi/verbi-deboli-schwache-verben.md)
 * [Verbi riflessivi (Reflexive Verben)](verbi/verbi-riflessivi-reflexive-verben.md)
-* [Tempi e modi TODO](verbi/tempi-e-modi-todo.md)
 * [Konjunktiv II TODO](verbi/konjunktiv-ii-todo.md)
 
 ## Pronomi
@@ -46,6 +46,7 @@
 
 ## Specchietti
 
+* [Coniugazione dei verbi ausiliari](specchietti/coniugazione-dei-verbi-ausiliari.md)
 * [Coniugazione di un verbo debole](specchietti/coniugazione-di-un-verbo-debole.md)
 * [Espressioni](specchietti/espressioni.md)
 * [Redewedungen](specchietti/redewedungen.md)
