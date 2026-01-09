@@ -55,3 +55,7 @@
 * [Lingua e provenienza TODO](specchietti/lingua-e-provenienza-todo.md)
 * [Prefissi dei verbi e significati TODO](specchietti/prefissi-dei-verbi-e-significati-todo.md)
 * [Preposizioni e casi che reggono TOFINISH](specchietti/preposizioni-e-casi-che-reggono-tofinish.md)
+
+## Referenze e Materiale
+
+* [Libri](referenze-e-materiale/libri.md)
