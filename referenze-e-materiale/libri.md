@@ -1,5 +1,7 @@
 # Libri
 
+Libri che in qualche modo ho usato e che consiglio, divisi per categoria.
+
 ## Grammatica (con esercizi)
 
 _Grammatiche di riferimento da tenere e consultare, con o senza esercizi._&#x20;

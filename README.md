@@ -22,6 +22,10 @@ Questo sito raccoglie una serie di **note grammaticali sulla lingua tedesca** ch
 
 Il progetto è vivo e probabilmente lo resterà a lungo: per ora ci sono poche pagine (ne ho molte ancora parziali da finire), pubblico quelle finite a poco a poco, che vedete qui. Piano piano aggiungo anche le referenze a libri e materiale online di qualità che conosco e uso regolarmente, ma ci possono essere anche link a materiale esterno particolare per ogni pagina.
 
+
+
+La pagina Github di riferimento si trova [qui](https://github.com/martinapugliese/note-tedesco).&#x20;
+
 ## Chi sono
 
 Mi chiamo Martina Pugliese, sono una con un sacco di curiosità a cui piace imparare di tutto. Questo è il [mio sito](https://martinapugliese.github.io/).

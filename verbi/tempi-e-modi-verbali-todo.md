@@ -72,6 +72,73 @@ TODO qui sotto per Futur I più finire i Konjunktiv
 | **Futur I** | semplice | _er werde gehen_ |
 | **Perfekt** | composto | _er habe gesagt_ |
 
+### 🔹 Cos’è il **Futur II del Konjunktiv I** (forma teorica)
+
+Dal punto di vista **puramente formale**, si potrebbe costruire così:
+
+👉 **werden (K I) + Partizip II + haben/sein**
+
+Esempio teorico:
+
+* _er werde gegangen sein_
+* _sie werde das Buch gelesen haben_
+
+Questa forma è **grammaticalmente ben formata**, non “sbagliata”.
+
+***
+
+### 🔹 Perché **non è in uso normale**
+
+#### 1️⃣ **Ridondanza funzionale**
+
+Nel discorso indiretto:
+
+* l’**anteriorità** è già espressa dal **Perfekt K I**
+* il **futuro** è espresso dal **Futur I K I**
+
+👉 combinare _futuro + anteriorità_ nel K I **non serve quasi mai**.
+
+***
+
+#### 2️⃣ **Pesantezza stilistica**
+
+Una forma come:
+
+* _er werde gegangen sein_
+
+è:
+
+* lunga
+* poco trasparente
+* percepita come **artificiale o iperformale**
+
+I madrelingua **la evitano**.
+
+***
+
+#### 3️⃣ **Sostituzione sistematica**
+
+Quando servirebbe davvero quel significato, il tedesco usa:
+
+* **Perfekt K I**\
+  (_er habe gesagt, dass er schon gegangen sei_)
+* oppure **Konjunktiv II**
+* oppure **Indikativ** (specie nel parlato)
+
+***
+
+### 🔹 Come viene trattata nelle grammatiche
+
+* Le **grammatiche scolastiche** spesso **non la elencano**
+* Le **grammatiche descrittive** dicono:
+  * _theoretisch möglich_
+  * _kaum gebräuchlich_
+  * _praktisch nicht verwendet_
+
+📌 Non è un “tempo mancante”, ma un **tempo marginale**.
+
+####
+
 #### **Konjunktiv II** (irrealtà, desideri, ipotesi)
 
 | Tempo                    | Tipo     | Esempio                   |
