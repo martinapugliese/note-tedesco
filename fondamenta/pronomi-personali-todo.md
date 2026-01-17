@@ -23,8 +23,8 @@ Si declinano, come in tabella.
 
 * La forma di cortesia, come da tabella, si declina come il plurale della terza persona ma al maiuscolo
 
-{% content-ref url="../" %}
-[..](../)
+{% content-ref url="../il-progetto/la-forma-di-cortesia-todo.md" %}
+[la-forma-di-cortesia-todo.md](../il-progetto/la-forma-di-cortesia-todo.md)
 {% endcontent-ref %}
 
 * TODO Vedi regola per riferimento ai da-compounds pg 14
