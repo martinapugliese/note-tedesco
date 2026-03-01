@@ -4,8 +4,8 @@ Qui riporto lo specchietto della coniugazione completa di un verbo debole (si ve
 
 Da notare:
 
-* al passivo nei tempi passati il "geworden" perde il ge- diventando "worden" - i motivi vanno dall'evitare la cacofonia con il participio el verbo principale alla necessità di distinguere questa forma dalla forma ordinaria del verbo werden quando non si usa come ausiliare (significa "diventare")<sup>1</sup>
-* il Futur II passivo non si usa quasi mai nel linguaggio parlato
+* al passivo nei tempi passati il "geworden" perde il ge- diventando "worden" - i motivi vanno dall'evitare la cacofonia con il participio el verbo principale alla necessità di distinguere questa forma dalla forma ordinaria del verbo werden quando non si usa come ausiliare (significa "diventare")<sup>1</sup>.
+* il Futur II passivo non si usa quasi mai nel linguaggio parlato.
 
 ## Indikativ
 
@@ -81,8 +81,8 @@ Da notare:
 
 #### Note
 
-* Per il du, la -e finale di solito si omette per i verbi deboli, tranne che per quelli che terminano in -t/-d (e.g. per "arbeiten" la forma è "arbeite!")
-* Per du e ihr il pronome non si specifica nella forma ("du koch!" è errato), ma si usa per Sie (e anche per wir, "kochen wir!")
+* Per il du, la -e finale di solito si omette per i verbi deboli, tranne che per quelli che terminano in -t/-d (e.g. per "arbeiten" la forma è "arbeite!").
+* Per du e ihr il pronome non si specifica nella forma ("du koch!" è errato), ma si usa per Sie (e anche per wir, "kochen wir!").
 * La forma passiva dell'imperativo è teorica o comunque rara, perché l'imperativo sui usa per dare comandi, non per comandare ad un processo di avvenire su un oggetto o persona.&#x20;
 
 ## Infinitiv
