@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Verbi riflessivi (Reflexive Verben)
 
 Sono verbi che necessitano del [pronome-riflessivo-reflexivpronomen.md](../pronomi/pronome-riflessivo-reflexivpronomen.md "mention"):
