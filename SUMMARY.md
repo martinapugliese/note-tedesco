@@ -27,7 +27,8 @@
 
 ## Pronomi
 
-* [Pronomi personali](pronomi/pronomi-personali.md)
+* [Pronome riflessivo (Reflexivpronomen)](pronomi/pronome-riflessivo-reflexivpronomen.md)
+* [Pronomi personali (Personalpronomen)](pronomi/pronomi-personali-personalpronomen.md)
 * [Pronomi relativi (Relativpronomen)](pronomi/pronomi-relativi-relativpronomen.md)
 * [Pronome interrogativo TODO](pronomi/pronome-interrogativo-todo.md)
 * [Pronome indefinito TODO](pronomi/pronome-indefinito-todo.md)
@@ -40,7 +41,7 @@
 
 ## Proposizioni
 
-* [Causale](proposizioni/causale.md)
+* [Proposizione causale](proposizioni/proposizione-causale.md)
 
 ## Specchietti
 

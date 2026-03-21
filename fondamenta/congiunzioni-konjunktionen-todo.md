@@ -15,7 +15,7 @@ icon: arrow-right-to-bracket
 
 #### Altre note
 
-* _denn_ si usa per le [causali](../proposizioni/causale.md) come congiunzione coordinante, quindi regge due frasi in costruzione principale.
+* _denn_ si usa per le [causali](../proposizioni/proposizione-causale.md) come congiunzione coordinante, quindi regge due frasi in costruzione principale.
 
 ### Congiunzioni doppie (Doppelkonjunktionen)
 
