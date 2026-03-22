@@ -41,6 +41,7 @@
 
 ## Proposizioni
 
+* [Proposizione finale](proposizioni/proposizione-finale.md)
 * [Proposizione causale](proposizioni/proposizione-causale.md)
 
 ## Specchietti
