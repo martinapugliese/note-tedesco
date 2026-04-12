@@ -5,7 +5,7 @@ hidden: true
 
 # Preposizioni e casi che reggono TOFINISH
 
-Vedi pure [preposizioni-e-connettori.md](../preposizioni-e-connettori.md "mention") per uno specchietto .. TODO
+Vedi pure [Broken link](/broken/pages/c0g7NJXpCS1wfmuPWcqv "mention") per uno specchietto .. TODO
 
 ## Reggenti il genitivo
 

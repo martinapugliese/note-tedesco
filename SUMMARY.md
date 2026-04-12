@@ -35,7 +35,6 @@
 
 ***
 
-* [Preposizioni e connettori](preposizioni-e-connettori.md)
 * [Pronominalenadverbien TODO](pronominalenadverbien-todo/README.md)
   * [Wo-Komposita](pronominalenadverbien-todo/wo-komposita.md)
 
@@ -55,6 +54,7 @@
 * [Lingua e provenienza TODO](specchietti/lingua-e-provenienza-todo.md)
 * [Prefissi dei verbi e significati TODO](specchietti/prefissi-dei-verbi-e-significati-todo.md)
 * [Preposizioni e casi che reggono TOFINISH](specchietti/preposizioni-e-casi-che-reggono-tofinish.md)
+* [Periodi composti <-> frasi preposizionali (Präpositionalphrase)](specchietti/periodi-composti-less-than-greater-than-frasi-preposizionali-prapositionalphrase.md)
 
 ## Referenze e Materiale
 
