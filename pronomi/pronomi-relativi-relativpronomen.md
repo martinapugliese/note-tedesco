@@ -88,7 +88,7 @@ Si usano in tre forme:
 
 Nota: _wohin_ e _woher_ non sono wo-Komposita perché hin ed her non sono preposizioni.
 
-3. Forma dei [pronominalenadverbien](../pronominalenadverbien/ "mention") della forma wo-, i cosiddetti "Wo-Komposita" (che si usano solo per le cose e non persone) - vedi  [wo-komposita.md](../pronominalenadverbien/wo-komposita.md "mention")
+3. Forma dei [pronominalenadverbien](../pronominalenadverbien/ "mention") della forma wo-, i cosiddetti "Wo-Komposita" (che si usano solo per le cose e non persone) - vedi  [wo-komposita-incompleta.md](../pronominalenadverbien/wo-komposita-incompleta.md "mention")
 
 * _Der Computer, **womit** ich arbeite, ist alt._
 * _Das ist das Holz, **woraus** der Tisch gemacht ist._

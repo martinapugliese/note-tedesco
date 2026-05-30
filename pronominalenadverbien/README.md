@@ -6,10 +6,10 @@ Si chiamano anche **Präpositionalenadverbien**, perché si formano con una prep
 [da-komposita.md](da-komposita.md)
 {% endcontent-ref %}
 
-{% content-ref url="wo-komposita.md" %}
-[wo-komposita.md](wo-komposita.md)
+{% content-ref url="wo-komposita-incompleta.md" %}
+[wo-komposita-incompleta.md](wo-komposita-incompleta.md)
 {% endcontent-ref %}
 
-{% content-ref url="hier-komposita.md" %}
-[hier-komposita.md](hier-komposita.md)
+{% content-ref url="hier-komposita-da-fare.md" %}
+[hier-komposita-da-fare.md](hier-komposita-da-fare.md)
 {% endcontent-ref %}
