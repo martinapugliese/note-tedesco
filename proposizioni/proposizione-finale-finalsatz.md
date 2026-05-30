@@ -13,7 +13,7 @@ Questa forma funziona quando principale e secondaria condividono lo stesso sogge
 
 
 
-Se il soggetto della secondaria differisce, si usa la costruzione con un composto da (si veda [pronominalenadverbien-todo](../pronominalenadverbien-todo/ "mention")):
+Se il soggetto della secondaria differisce, si usa la costruzione con un composto da (si veda [pronominalenadverbien](../pronominalenadverbien/ "mention")):
 
 * _Ich gebe dir Geld, damit du einkaufst._&#x20;
 * _Ich spare Geld, damit wir in den Urlaub fahren können._

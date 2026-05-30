@@ -34,10 +34,10 @@
 
 ***
 
-* [Pronominalenadverbien TODO](pronominalenadverbien-todo/README.md)
-  * [Da-Komposita](pronominalenadverbien-todo/da-komposita.md)
-  * [Wo-Komposita](pronominalenadverbien-todo/wo-komposita.md)
-  * [Hier-Komposita](pronominalenadverbien-todo/hier-komposita.md)
+* [Pronominalenadverbien](pronominalenadverbien/README.md)
+  * [Da-Komposita](pronominalenadverbien/da-komposita.md)
+  * [Wo-Komposita](pronominalenadverbien/wo-komposita.md)
+  * [Hier-Komposita](pronominalenadverbien/hier-komposita.md)
 
 ## Proposizioni
 
