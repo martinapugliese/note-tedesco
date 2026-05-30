@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Wo-Komposita
 
 Hanno funzione interrogativa o relativa. Si formano con _wo- + \[preposizione]._&#x20;

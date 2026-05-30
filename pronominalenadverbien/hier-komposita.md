@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Hier-Komposita
 
 Si usano principalmente nel linguaggio formale (per esempio in quello legale) e specificano che l'azione si verifica lì in quel momento.
