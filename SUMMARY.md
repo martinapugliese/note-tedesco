@@ -4,7 +4,6 @@
 
 * [Ciao!](README.md)
 * [La forma di cortesia TODO](il-progetto/la-forma-di-cortesia-todo.md)
-* [Abbreviazioni usate TODO](il-progetto/abbreviazioni-usate-todo.md)
 
 ## Fondamenta
 
@@ -36,11 +35,13 @@
 ***
 
 * [Pronominalenadverbien TODO](pronominalenadverbien-todo/README.md)
+  * [Da-Komposita](pronominalenadverbien-todo/da-komposita.md)
   * [Wo-Komposita](pronominalenadverbien-todo/wo-komposita.md)
+  * [Hier-Komposita](pronominalenadverbien-todo/hier-komposita.md)
 
 ## Proposizioni
 
-* [Proposizione finale](proposizioni/proposizione-finale.md)
+* [Proposizione finale (Finalsatz)](proposizioni/proposizione-finale-finalsatz.md)
 * [Proposizione causale](proposizioni/proposizione-causale.md)
 
 ## Specchietti

@@ -76,7 +76,7 @@ _Ich habe viele Blumen, die im Garten standen, gesammelt._
 
 Si usano in tre forme:
 
-1. wo singolo: per i complementi di luogo, può sostituire la versioni con preposizione + pronome, essendone una forma più colloquiale:
+1. _wo_ singolo: per i complementi di luogo, può sostituire la versioni con preposizione + pronome, essendone una forma più colloquiale:
 
 * _Die stadt, **wo** ich wohne, ist sehr  schön._ (al posto di in der)
 * _Der Tisch, **wo** die Vase steht, ist sehr alt._ (al posto di auf dem)
@@ -86,7 +86,7 @@ Si usano in tre forme:
 * _Die Stadt, **wohin** ich gehe, ist sehr schön._
 * _Die Stadt, **woher** ich komme, ist hässlich._
 
-Nota: wohin e woher non sono wo-Komposita perché hin ed her non sono preposizioni.
+Nota: _wohin_ e _woher_ non sono wo-Komposita perché hin ed her non sono preposizioni.
 
 3. Forma dei [pronominalenadverbien-todo](../pronominalenadverbien-todo/ "mention") della forma wo-, i cosiddetti "Wo-Komposita" (che si usano solo per le cose e non persone) - vedi  [wo-komposita.md](../pronominalenadverbien-todo/wo-komposita.md "mention")
 

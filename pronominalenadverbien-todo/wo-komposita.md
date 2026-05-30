@@ -1,16 +1,16 @@
+---
+hidden: true
+---
+
 # Wo-Komposita
 
 Sono avverbi e hanno funzione di pronome (interrogativo o relativo). Si formano con wo + preposizione: _woran, worüber, worauf, wofür, wogegen, ..._
-
-
 
 ## Regole
 
 1. Si usano solo per le **cose (non le persone).**
 2. Se dopo la "o" del "wo" c'è un'altra vocale, si usa una "Fugen-R" di mezzo ("Fugen" è la fuga delle mattonelle), per questo abbiamo "w&#x6F;_&#x72;_&#x61;uf", "w&#x6F;_&#x72;_&#x61;us" etc.
 3. Le forme "für was", "mit was", "auf was" etc invece non sono corrette
-
-
 
 ## Esempi
 

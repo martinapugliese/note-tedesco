@@ -1,4 +1,8 @@
-# Proposizione finale
+---
+icon: arrow-right-to-bracket
+---
+
+# Proposizione finale (Finalsatz)
 
 Nella sua forma semplice, la finale si forma con **um...** _**zu + infinito** del verbo:_
 
