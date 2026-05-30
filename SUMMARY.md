@@ -36,8 +36,8 @@
 
 * [Pronominalenadverbien](pronominalenadverbien/README.md)
   * [Da-Komposita](pronominalenadverbien/da-komposita.md)
-  * [Wo-Komposita \[incompleta\]](pronominalenadverbien/wo-komposita-incompleta.md)
-  * [Hier-Komposita \[da fare\]](pronominalenadverbien/hier-komposita-da-fare.md)
+  * [Wo-Komposita](pronominalenadverbien/wo-komposita.md)
+  * [Hier-Komposita](pronominalenadverbien/hier-komposita.md)
 
 ## Proposizioni
 
