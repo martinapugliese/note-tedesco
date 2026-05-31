@@ -1,36 +1,22 @@
 ---
-description: fare gli esempi - vd pag 16 che ne ha alcuni
 hidden: true
 ---
 
 # Preposizioni e casi che reggono TOFINISH
 
-Vedi pure [Broken link](/broken/pages/c0g7NJXpCS1wfmuPWcqv "mention") per uno specchietto .. TODO
+Le liste qui sotto contengono solo le principali preposizioni, ma ce ne sono altre.
 
 ## Reggenti il genitivo
 
-| Preposizione    | Significato          | Esempi TODO                                                                                          |
-| --------------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
-| _anstatt/statt_ | invece di            | <p><em>Statt/Anstatt eines Kaffes trinke ich Tee</em><br><em>veid chatgpt per la differenza</em></p> |
-| _trotz_         | malgrado, nonostante | _Trotz seiner Müdigkeit arbeitete er weiter_                                                         |
-| _während_       | durante              |                                                                                                      |
-| _wegen_         | per, a causa di      |                                                                                                      |
+<table><thead><tr><th width="134.8953857421875">Preposizione</th><th width="150.88726806640625">Significato</th><th>Esempi TODO</th></tr></thead><tbody><tr><td><em>anstatt/statt</em></td><td>invece di </td><td><em>Statt/anstatt des üblichen Kaffees trinke ich heute Tee.</em></td></tr><tr><td><em>trotz</em></td><td>malgrado, nonostante</td><td><em>Trotz seiner Müdigkeit arbeitete er weiter.</em></td></tr><tr><td><em>während</em></td><td>durante</td><td><em>Während ich fahre, lese ich gerne.</em></td></tr><tr><td><em>wegen</em></td><td>per, a causa di </td><td><em>Wegen des Regens konnte ich kaum sehen.</em></td></tr><tr><td><em>innerhalb/außerhalb</em></td><td>dentro/fuori</td><td><em>Innerhalb des Hauses ist es warm.</em></td></tr></tbody></table>
+
+TODO aggiungere i casi italiani^
 
 ## Reggenti il dativo
 
-| Preposizione | Significato                                                       | Esempi TODO |
-| ------------ | ----------------------------------------------------------------- | ----------- |
-| _aus_        | da/di (moto da luogo e provenienza)                               |             |
-| _bei_        | presso e condizionali                                             |             |
-| _mit_        | con                                                               |             |
-| _nach_       | verso, a (moto a luogo)                                           |             |
-| _seit_       | da (temporale), "since" inglese                                   |             |
-| _von_        | di (specificazione) e moto da luogo                               |             |
-| _zu_         | verso, a (moto a luogo o persona determinata) e tempo determinato |             |
-| _außer_      | oltre, tranne                                                     |             |
-| _ab_         |                                                                   |             |
-| _entgegen_   |                                                                   |             |
-| _gegenüber_  |                                                                   |             |
+<table><thead><tr><th width="136.24835205078125">Preposizione</th><th>Significato</th><th>Esempi TODO</th></tr></thead><tbody><tr><td><em>aus</em></td><td>da/di (moto da luogo e provenienza)</td><td><em>Ich komme aus Italien; ich nehme die Tasse aus dem Regal.</em></td></tr><tr><td><em>bei</em></td><td>presso (stato in luogo);  tempo/causa con valore condizionale</td><td><em>Ich bin beim* Arzt; Rom liegt bei ; Beim Lesen (se/quando leggo) trinke ich Bier.</em></td></tr><tr><td><em>mit</em></td><td>con (compagnia, strumento/mezzo, modo)</td><td><em>Ich gehe mit dir; Ich fahre mit dem Zug; Er arbeitet mit großer Hingabe.</em></td></tr><tr><td><em>nach</em></td><td>verso, a (moto a luogo)</td><td></td></tr><tr><td><em>seit</em></td><td>da (temporale), "since" inglese</td><td></td></tr><tr><td><em>von</em></td><td>di (specificazione) e moto da luogo</td><td></td></tr><tr><td><em>zu</em></td><td>verso, a (moto a luogo o persona determinata) e tempo determinato</td><td></td></tr><tr><td><em>außer</em></td><td>oltre, tranne</td><td></td></tr><tr><td><em>ab</em></td><td></td><td></td></tr><tr><td><em>entgegen</em></td><td></td><td></td></tr><tr><td><em>gegenüber</em></td><td></td><td></td></tr></tbody></table>
+
+_\*beim è la contrazione di bei + dem, in quanto l'articolo si declina_
 
 ## Reggenti l'accusativo
 

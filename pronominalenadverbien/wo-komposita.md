@@ -21,15 +21,5 @@ Esempi:
 
 
 
-{% content-ref url="../pronomi/pronome-interrogativo-todo.md" %}
-[pronome-interrogativo-todo.md](../pronomi/pronome-interrogativo-todo.md)
-{% endcontent-ref %}
-
-
-
-
-
-
-
 
 
