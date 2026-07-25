@@ -14,6 +14,10 @@
 * [Il "man" TODO](fondamenta/il-man-todo.md)
 * [I numeri TODO](fondamenta/i-numeri-todo.md)
 
+## Sostantivi
+
+* [Nominalisierung TODO](sostantivi/nominalisierung-todo.md)
+
 ## Verbi
 
 * [Tempi e modi verbali TODO](verbi/tempi-e-modi-verbali-todo.md)
