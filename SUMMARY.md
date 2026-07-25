@@ -55,7 +55,7 @@
 * [Espressioni](specchietti/espressioni.md)
 * [Redewedungen](specchietti/redewedungen.md)
 * [Specificare l'orario](specchietti/specificare-lorario.md)
-* [Paesi con l'articolo TODO](specchietti/paesi-con-larticolo-todo.md)
+* [Paesi con l'articolo](specchietti/paesi-con-larticolo.md)
 * [Lingua e provenienza TODO](specchietti/lingua-e-provenienza-todo.md)
 * [Prefissi dei verbi e significati TODO](specchietti/prefissi-dei-verbi-e-significati-todo.md)
 * [Preposizioni e casi che reggono TOFINISH](specchietti/preposizioni-e-casi-che-reggono-tofinish.md)
