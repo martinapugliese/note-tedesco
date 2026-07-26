@@ -46,7 +46,7 @@
 ## Proposizioni
 
 * [Proposizione finale (Finalsatz)](proposizioni/proposizione-finale-finalsatz.md)
-* [Periodi composti <-> frasi preposizionali (Präpositionalphrase)](proposizioni/periodi-composti-less-than-greater-than-frasi-preposizionali-prapositionalphrase.md)
+* [Periodo composto <-> frase preposizionale (Präpositionalphrase)](proposizioni/periodo-composto-less-than-greater-than-frase-preposizionale-prapositionalphrase.md)
 * [Proposizione causale](proposizioni/proposizione-causale.md)
 
 ## Specchietti
