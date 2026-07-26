@@ -11,7 +11,7 @@ Riportiamo un esempio per ogni possibilità - si noti che gli esempi scelgono un
 
 
 
-Per ogni categoria di significato riportiamo solo alcune delle possibilità di combinazione, le più comuni.
+Per ogni categoria di significato riportiamo solo alcune delle combinazioni, le più comuni.
 
 
 
@@ -48,15 +48,45 @@ Queste combinazioni si usano per un evento puntuale nel tempo o per simultaneit�
 * _**Während** man isst, soll man nicht sprechen -> **Beim** Essen soll man nicht sprechen._
 * _**Als** mein Zug im Bahnhof ankam, war ich noch im Stau -> **Bei** der Ankunft des Zuges im Bahnhof war ich noch im Stau._
 
-
+Le altre congiunzioni temporali si usano in strutture simili.
 
 ## Significato concessivo
 
 ### Obwohl -> Trotz
 
-* _**Obwohl** ich Urlaub gemacht habe, bin ich noch müde -> **Trotz** meines Urlaubs bin ich noch müde._<br>
-
-<table><thead><tr><th width="137.76239013671875">Categoria</th><th>Periodo composto (Subjunktion/Konjunktionaladverb)</th><th>Periodo con preposizione</th></tr></thead><tbody><tr><td><strong>Causale: weil - durch</strong><br><br><strong>o Modale: indem - durch</strong></td><td><p><em>Ich habe die Prüfung bestanden, <strong>weil</strong> ich mich gut vorbereitet habe</em><br><br><em>[COME MODALE]</em><br></p><p>Ich habe die Prüfung bestanden, <strong>indem</strong> ich mich gut vorbereitet habe.</p></td><td><em><strong>Durch</strong> gute Vorbereitung habe ich die Prüfung bestanden</em></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+* _**Obwohl** ich Urlaub gemacht habe, bin ich noch müde -> **Trotz** meines Urlaubs bin ich noch müde._
 
 
 
+## Significato modale
+
+### indem -> durch
+
+* _Ich habe die Prüfung bestanden, **indem** ich mich gut vorbereitet habe -> **Durch** gute Vorbereitung habe ich die Prüfung bestanden._
+
+### Ohne ... zu -> ohne
+
+* _**Ohne**_ _**zu** lernen, wirst du die Prüfung nicht bestehen -> **ohne** Lernen wirst du die Prüfung nicht bestehen._
+
+### Wie -> laut
+
+* _**Wie** der Wetterbericht sagt, wird es morgen regnen -> **Laut** dem Wetterbericht wird es morgen regnen._
+
+
+
+## Significato causale
+
+### weil/da -> durch
+
+* _Ich habe die Prüfung bestanden, **weil** ich mich gut vorbereitet habe -> **Durch** gute Vorbereitung habe ich die Prüfung bestanden._
+
+Rispetto alla frase analoga di sopra con significato modale, usando weil qui si pone l'accento sul perché, sulla ragione per cui ho superato l'esame (e non sul come).
+
+### Weil/da/denn -> wegen
+
+* _Ich gehe nicht spazieren, **weil** es regnet -> **Wegen** des Regens gehe ich nicht spazieren._
+* _**Da** der Zug Verspätung hatte, kam er spät nach Hause -> **Infolge** der Verspätung kam er spät nach Hause._
+
+### Weil/da/denn
+
+* _Ich habe den Job bekommen, **denn** ich hatte die richtige Ausbildung -> **Dank** meiner Ausbildung habe ich den Job bekommen._
