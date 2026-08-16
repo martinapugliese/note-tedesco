@@ -16,7 +16,10 @@
 
 ## Sostantivi
 
-* [Nominalisierung TODO](sostantivi/nominalisierung-todo.md)
+* [Nominalisierung](sostantivi/nominalisierung/README.md)
+  * [Nomi composti (zusammengesetze Nomen)](sostantivi/nominalisierung/nomi-composti-zusammengesetze-nomen.md)
+  * [Nomi derivati (abgeleitete Nomen)](sostantivi/nominalisierung/nomi-derivati-abgeleitete-nomen.md)
+* [Sostantivi TODO](sostantivi/sostantivi-todo.md)
 
 ## Verbi
 

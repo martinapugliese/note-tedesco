@@ -2,9 +2,9 @@
 icon: arrow-right-arrow-left
 ---
 
-# Periodi composti <-> frasi preposizionali (Präpositionalphrase)
+# Periodo composto <-> frase preposizionale (Präpositionalphrase)
 
-Un periodo composto da proposizione principale e secondaria (introdotta da congiunzione subordinante) si può rendere alla stessa maniera come unica frase principale dove il ruolo della secondaria è svolto da una preposizione, che introduce un sostantivo. In molti casi il verbo della secondaria può diventare un sostantivo tramite [Nominalisierung](../sostantivi/nominalisierung-todo.md) (sostantivazione).
+Un periodo composto da proposizione principale e secondaria (introdotta da congiunzione subordinante) si può rendere alla stessa maniera come unica frase principale dove il ruolo della secondaria è svolto da una preposizione, che introduce un sostantivo. In molti casi il verbo della secondaria può diventare un sostantivo tramite [Nominalisierung](../sostantivi/nominalisierung/) (sostantivazione).
 
 Riportiamo un esempio per ogni possibilità - si noti che gli esempi scelgono un particolare ordine delle frasi o degli elementi, ma altre sono possibili (e.g. si possono invertire principale e secondaria o cambiare la posizione della parte preposizionale). Bisogna fare attenzione ai casi!
 
@@ -48,6 +48,8 @@ Queste combinazioni si usano per un evento puntuale nel tempo o per simultaneit�
 * _**Als** mein Zug im Bahnhof ankam, war ich noch im Stau -> **Bei** der Ankunft des Zuges im Bahnhof war ich noch im Stau._
 
 Le altre congiunzioni temporali si usano in strutture simili.
+
+
 
 ## Significato concessivo
 

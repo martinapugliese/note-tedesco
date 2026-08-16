@@ -25,18 +25,18 @@ I modi verbali sono 5: TODO finire e controllare
 
 2️⃣ **Konjunktiv**\
 → possibilità, irrealtà, discorso indiretto\
-&#xNAN;_(include Konjunktiv I e II)_
+_(include Konjunktiv I e II)_
 
 3️⃣ **Imperativ**\
 → ordini, richieste, inviti
 
 4️⃣ **Infinitiv**\
 → forma non personale\
-&#xNAN;_(Infinitiv I / II)_
+_(Infinitiv I / II)_
 
 5️⃣ **Partizip**\
 → forma non personale\
-&#xNAN;_(Partizip I / II)_
+_(Partizip I / II)_
 
 
 
@@ -170,7 +170,7 @@ Esempio:
 È un **verbo pieno** (“diventare”) che può:
 
 * essere usato **lessicalmente**\
-  &#xNAN;_&#x65;r wird müde_
+  _&#x65;r wird müde_
 * essere usato **grammaticalmente** per:
   * Futur I
   * passivo
