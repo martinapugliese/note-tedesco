@@ -1,5 +1,4 @@
 ---
-description: finita
 icon: square-user
 ---
 

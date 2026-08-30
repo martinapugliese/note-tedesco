@@ -17,10 +17,11 @@
 
 ## Sostantivi
 
+* [Sostantivi](sostantivi/sostantivi/README.md)
+  * [Sostantivi composti](sostantivi/sostantivi/sostantivi-composti.md)
 * [Nominalisierung](sostantivi/nominalisierung/README.md)
   * [Nomi composti (zusammengesetze Nomen)](sostantivi/nominalisierung/nomi-composti-zusammengesetze-nomen.md)
   * [Nomi derivati (abgeleitete Nomen)](sostantivi/nominalisierung/nomi-derivati-abgeleitete-nomen.md)
-* [Sostantivi TODO](sostantivi/sostantivi-todo.md)
 
 ## Verbi
 
@@ -53,17 +54,26 @@
 * [Periodo composto <-> frase preposizionale (Präpositionalphrase)](proposizioni/periodo-composto-less-than-greater-than-frase-preposizionale-prapositionalphrase.md)
 * [Proposizione causale](proposizioni/proposizione-causale.md)
 
+## Aggettivi
+
+* [Aggettivi composti](aggettivi/aggettivi-composti.md)
+
 ## Specchietti
 
 * [Coniugazione dei verbi ausiliari](specchietti/coniugazione-dei-verbi-ausiliari.md)
 * [Coniugazione di un verbo debole](specchietti/coniugazione-di-un-verbo-debole.md)
-* [Espressioni](specchietti/espressioni.md)
-* [Redewedungen](specchietti/redewedungen.md)
 * [Specificare l'orario](specchietti/specificare-lorario.md)
-* [Paesi con l'articolo](specchietti/paesi-con-larticolo.md)
 * [Lingua e provenienza TODO](specchietti/lingua-e-provenienza-todo.md)
 * [Prefissi dei verbi e significati TODO](specchietti/prefissi-dei-verbi-e-significati-todo.md)
 * [Preposizioni e casi che reggono TOFINISH](specchietti/preposizioni-e-casi-che-reggono-tofinish.md)
+* [Fugen s](specchietti/fugen-s.md)
+
+## Vocabolario e frasi
+
+* [Espressioni](vocabolario-e-frasi/espressioni.md)
+* [Redewedungen](vocabolario-e-frasi/redewedungen.md)
+* [Paesi con l'articolo](vocabolario-e-frasi/paesi-con-larticolo.md)
+* [Page 1](vocabolario-e-frasi/page-1.md)
 
 ## Referenze e Materiale
 
