@@ -10,7 +10,8 @@
 * [Umlaut TODO](fondamenta/umlaut-todo.md)
 * [Articoli (Artikeln)](fondamenta/articoli-artikeln.md)
 * [Congiunzioni (Konjunktionen) TODO](fondamenta/congiunzioni-konjunktionen-todo.md)
-* [Pronomi personali TODO](fondamenta/pronomi-personali-todo.md)
+* [Pronomi personali](fondamenta/pronomi-personali/README.md)
+  * [Da aggiungere a pronomi personali TODO](fondamenta/pronomi-personali/da-aggiungere-a-pronomi-personali-todo.md)
 * [Il "man" TODO](fondamenta/il-man-todo.md)
 * [I numeri TODO](fondamenta/i-numeri-todo.md)
 

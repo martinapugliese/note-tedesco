@@ -1,9 +1,9 @@
 ---
-hidden: true
 icon: square-user
+coverY: 0
 ---
 
-# Pronomi personali TODO
+# Pronomi personali
 
 Si declinano, come in tabella.
 
@@ -21,18 +21,18 @@ Si declinano, come in tabella.
 {% endtab %}
 {% endtabs %}
 
-* La forma di cortesia, come da tabella, si declina come il plurale della terza persona ma al maiuscolo
+### Cose da sapere
 
-{% content-ref url="../il-progetto/la-forma-di-cortesia-todo.md" %}
-[la-forma-di-cortesia-todo.md](../il-progetto/la-forma-di-cortesia-todo.md)
-{% endcontent-ref %}
-
-* TODO Vedi regola per riferimento ai da-compounds pg 14
-* TODO non ho un esempio sulla regola della relativa? p 13
+La forma di cortesia si declina come il plurale della terza persona ma al maiuscolo (vedi tabella sotto "terza persona").
 
 
 
-## Riferimenti
+Se seguiti da un pronome relativo al nominativo si ripetono quando la frase è in prima o seconda persona  (vale al singolare come al plurale):&#x20;
+
+* _Ich, der/die_ (M/F) _**ich** immer faul bin, bin heute früh aufgestanden_
+* _Er, der immer faul ist, ist heute früh aufgestanden_ (terza persona, non ripete il pronome personale)
+
+Questo perché il pronome relativo è naturalmente in terza persona (vedi [pronomi-relativi-relativpronomen.md](../../pronomi/pronomi-relativi-relativpronomen.md "mention")) quindi senza la ripetizione del pronome personale la frase risulterebbe scorretta in quanto il verbo non si concorderebbe.
 
 
 
