@@ -19,16 +19,11 @@ Nota: _\*beim/vom_ etc sono le contrazioni di _bei + dem_, in quanto l'articolo 
 
 ## Reggenti l'accusativo
 
-| Preposizione | Significato               | Esempi TODO |
-| ------------ | ------------------------- | ----------- |
-| _für_        | per                       |             |
-| _durch_      | attraverso, per mezzo di  |             |
-| _gegen_      | contro, verso (tempo)     |             |
-| ohne         | senza                     |             |
-| um           | attorno, intorno (spazio) |             |
-| bis          | fino a (spazio, tempo)    |             |
+Queste possono reggere molti complementi, facciamo degli esempi.
 
-## Reggenti accusativo o dativo
+<table><thead><tr><th width="142.73736572265625">Preposizione</th><th>Significato</th><th>Esempi</th></tr></thead><tbody><tr><td><em>für</em></td><td>per ("for" inglese) (fine/scopo, vantaggio/svantaggio, durata, ...)</td><td><em>Ich spare Geld für meine Reise.</em><br><em>Ich baue ein Baumhaus für meine Kinder.</em><br><em>Ich fahre für zwei Wochen.</em></td></tr><tr><td><em>durch</em></td><td>attraverso, per mezzo di (moto per luogo, mezzo/strumento, agente, ...)</td><td><em>Ich fahre durch Deutschland.</em><br><em>Wir müssen durch den Wald gehen.</em><br><em>Er hat durch die Arbeit einen Laptop bekommen.</em><br><em>Das Haus wurde durch ein Feuer zerstört.</em></td></tr><tr><td><em>gegen</em></td><td>contro, verso (opposizione, moto, tempo approssimativo, misura, ...)</td><td><em>Das Auto fuhr gegen einen Baum.</em><br><em>Frauen müssen immer gegen die Ungerechtigkeit kämpfen.</em><br><em>Ich komme gegen 18 Uhr zu dir.</em></td></tr><tr><td><em>ohne</em></td><td>senza (esclusione)</td><td><em>Ich trinke Tee ohne Zucker.</em></td></tr><tr><td><em>um</em></td><td>attorno, intorno (moto intorno, tempo determinato per orario, differenza, ...)</td><td><em>Wir setzen um den Tisch (attorno al tavolo).</em><br><em>Der Zug fährt um 18 Uhr ab.</em><br><em>Die Preisen sind um 5 Prozent gestiegen.</em></td></tr><tr><td><em>bis (come unica preposizione)</em></td><td>fino a (spazio, tempo)</td><td><em>Ich laufe bis Berlin.</em><br><em>Bis Morgen!</em></td></tr></tbody></table>
+
+## Reggenti accusativo o dativo (Wechselpräpositionen)
 
 Queste sono le Wechselpräpositionen, usano l'accusativo quando esprimo direzione o _movimento_ verso un luogo, o più precisamente quando si esprime un cambiamento di luogo, il dativo nel caso di _stato_ in luogo o moto circoscritto.
 
